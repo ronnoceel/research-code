@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "NSQIP free-flap age vs. frailty — a targeted replication of Jubbal et al."
+authors:
+  - family-names: Lee
+    given-names: Connor
+abstract: >-
+  Analysis code accompanying a replication of Jubbal et al. on age and microsurgical
+  free-flap outcomes using ACS-NSQIP 2022-2024.
+keywords:
+  - ACS-NSQIP
+  - free flap
+  - microsurgery
+  - frailty
+  - mFI-5
+  - replication
+  - reproducibility
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-14"

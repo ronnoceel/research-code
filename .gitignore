@@ -1,0 +1,19 @@
+# Never commit case-level registry data (ACS-NSQIP / SEER DUAs prohibit redistribution)
+*.rds
+*.sav
+*.sas7bdat
+acs_nsqip_puf*.txt
+**/data/
+**/puf*/
+
+# R / session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+
+# Generated results (regenerate by running the scripts)
+outputs/
