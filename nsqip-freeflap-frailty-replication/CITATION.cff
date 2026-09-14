@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "NSQIP free-flap age vs. frailty — a targeted replication of Jubbal et al."
 authors:
+  - family-names: Ghaderi
+    given-names: Maryam
   - family-names: Lee
     given-names: Connor
 abstract: >-
@@ -18,3 +20,6 @@ keywords:
 license: MIT
 version: "1.0.0"
 date-released: "2026-09-14"
+doi: "10.5281/zenodo.22759013"
+repository-code: "https://github.com/ronnoceel/research-code"
+url: "https://doi.org/10.5281/zenodo.22759013"
